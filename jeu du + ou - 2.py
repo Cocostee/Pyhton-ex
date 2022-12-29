@@ -82,4 +82,4 @@ btn9.pack()
 
 
 # Affichage de la fenêtre créée :
-fenetre.mainloop()
+fenetre.mainloop()   
